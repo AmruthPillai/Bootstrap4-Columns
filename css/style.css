@@ -1,0 +1,6 @@
+.container .row [class*='col'] {
+    color: #FFF;
+    background-color: #111;
+    border: 1px solid #FFF;
+    padding: 15px 0;
+}
